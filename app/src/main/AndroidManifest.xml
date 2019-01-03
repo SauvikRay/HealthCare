@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.reversecurrent.healthcare">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Pain" />
+        <activity android:name=".Deseases" />
+        <activity android:name=".Problems" />
+        <activity android:name=".Minor_Diseases" />
+        <activity android:name=".MentalProblems" />
+        <activity android:name=".Tips" />
+        <activity android:name=".Pain1" />
+        <activity android:name=".Pain2" />
+        <activity android:name=".Pain3" />
+        <activity android:name=".Pain4" />
+        <activity android:name=".Pain5" />
+        <activity android:name=".Pain6" />
+        <activity android:name=".Pain7" />
+        <activity android:name=".Pain8" />
+        <activity android:name=".Pain9" />
+        <activity android:name=".Deseases1" />
+        <activity android:name=".Deseases2" />
+        <activity android:name=".Deseases3" />
+        <activity android:name=".Deseases4" />
+        <activity android:name=".Deseases5" />
+        <activity android:name=".Deseases6" />
+        <activity android:name=".Deseases7" />
+        <activity android:name=".Deseases8" />
+        <activity android:name=".Deseases9" />
+        <activity android:name=".Deseases10" />
+        <activity android:name=".Deseases11" />
+        <activity android:name=".Deseases12" />
+        <activity android:name=".Deseases13" />
+        <activity android:name=".Deseases14" />
+        <activity android:name=".Deseases15" />
+        <activity android:name=".Deseases16" />
+        <activity android:name=".Deseases17" />
+        <activity android:name=".Deseases18" />
+        <activity android:name=".Deseases19" />
+        <activity android:name=".Deseases20" />
+        <activity android:name=".Problems1" />
+        <activity android:name=".Problems2" />
+        <activity android:name=".Problems3" />
+        <activity android:name=".Problems4" />
+        <activity android:name=".Problems5" />
+        <activity android:name=".Problems6" />
+        <activity android:name=".Problems7" />
+        <activity android:name=".Problems8" />
+        <activity android:name=".Problems9" />
+        <activity android:name=".Problems10" />
+        <activity android:name=".Problems11" />
+        <activity android:name=".Problems12" />
+        <activity android:name=".Problems13" />
+        <activity android:name=".MinorDeseases1" />
+        <activity android:name=".MinorDeseases2" />
+        <activity android:name=".MinorDeseases3" />
+        <activity android:name=".MinorDeseases4" />
+        <activity android:name=".MinorDeseases5" />
+        <activity android:name=".MinorDeseases6"></activity>
+    </application>
+
+</manifest>
